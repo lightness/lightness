@@ -20,3 +20,5 @@ Also I'm open-source enthusiast. It's really hard to do something brand new in o
 [![Skype: vladimir-oleshko](https://img.shields.io/badge/Skype-vladimir--oleshko-blue)](vladimir-oleshko)
 [![GitHub lightness](https://img.shields.io/github/followers/lightness?label=follow&style=social)](https://github.com/lightness)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightness&show_icons=true&theme=radical)
+
