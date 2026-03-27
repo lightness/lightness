@@ -18,7 +18,5 @@ Also I'm open-source enthusiast. It's really hard to do something brand new in o
 [![Mail: uladzimir.aleshka@gmail.com](https://img.shields.io/badge/Mail-uladzimir.aleshka%40gmail.com-red)](mailto:uladzimir.aleshka@gmail.com)
 [![GitHub lightness](https://img.shields.io/github/followers/lightness?label=follow&style=social)](https://github.com/lightness)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightness&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightness&layout=compact)](https://github.com/lightness)
 
